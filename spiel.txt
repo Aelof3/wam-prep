@@ -1,8 +1,0 @@
-As I've been looking for ways to stay sharp during quarantine, I came up with a new take on a classic game that
-really stimulates the mind. The classic game is Whack-a-mole, and the twist, is that it is in 3D. Instead of reacting
-to a single plane of pesky moles, it is a cube the player has to spin around to reach all the buggers as fast as they can.
-Users will be able to compete for a place on the leaderboard, and challenge friends to socially distanced brain activity.
-
-I enjoy working with 3D objects and physics, but have a good idea of how I want to do this using just the allowed tools.
-This is a simple idea of a project, but implemented the way I see it in my vision, it will be sure to turn heads in my
-portfolio.
