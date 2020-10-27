@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+main{
+    max-width: 850px;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #aaa;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+button {
+    padding: 1.5rem 3rem;
+    font-size: 1rem;
+    margin: 0.5rem;
+}
+.section--row {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.section--column{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+main.space--between {
+    justify-content: space-between;
+}
+
+main.wireframe--leaderboard {
+    padding: 3rem;
+}
+main.wireframe--leaderboard li h3, main.wireframe--leaderboard li h1{
+    margin: 0.5rem;
+}
+main.wireframe--app {
+    padding: 3rem;
+}
+main.wireframe--app button{
+    width: 75px;
+    height:75px;
+    padding: 0;
+}
+
+.border {
+    border:2px solid #000;
+}
+
+.f1 {
+    flex:1;
+    width: 100%;
+}
+.f3 {
+    flex:3;
+    width: 100%;
+}
+.f5 {
+    flex:5;
+    width: 100%;
+}
+.f7 {
+    flex:7;
+    width: 100%;
+}
+
+.pad {
+    padding: 5rem;
+}
